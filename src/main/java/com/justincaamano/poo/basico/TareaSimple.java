@@ -50,7 +50,7 @@ public class TareaSimple {
 			this.completado = false;
 			
 			}else {
-				this.completado =	 true;
+				this.completado = true;
 		}
 	}
 }
